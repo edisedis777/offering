@@ -24,18 +24,6 @@ No external dependencies are required beyond a modern web browser. However, ensu
 * Click either the joss paper or the "Burn" button at the bottom to initiate the burning animation.
 * Watch as the joss paper fades artistically into flames, smoke, and a symbolic spirit transition, symbolizing the offering to ancestors.
 
-Project Structure
-text
-Wrap
-Copy
-ancestral-joss-paper/
-├── index.html           # Main HTML file
-├── styles.css           # CSS for styling and responsiveness
-├── script.js            # JavaScript for interactivity and animations
-├── assets/              # Folder for assets
-│   └── ancestral_image.jpg  # Joss paper image (320x320 pixels)
-└── README.md            # This file
-
 ### Contributing
 Contributions are welcome! If you’d like to improve this project, please do so.
 Please ensure your changes align with the artistic and cultural vision of the project.
