@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ancestral Joss Paper Offering</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap"
+      rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap"
+      rel="stylesheet" />
+  </head>
+  <body>
+    <div class="background-elements">
+      <div class="incense-smoke"></div>
+      <div class="incense-smoke smoke-2"></div>
+      <div class="lotus-symbol left"></div>
+      <div class="lotus-symbol right"></div>
+    </div>
+
+    <div id="container">
+      <h1>祖先祭祀 - Ancestral Joss Paper Offering</h1>
+      <p class="instructions">
+        Select paper type, write a message, then burn to offer to your
+        ancestors.
+      </p>
+
+      <div id="ritual-controls">
+        <select id="paper-select">
+          <option value="gold">Gold Joss Paper (福)</option>
+          <option value="money">Spirit Money (冥幣)</option>
+          <option value="clothes">Spirit Clothes (衣)</option>
+          <option value="house">Spirit House (屋)</option>
+        </select>
+
+        <div id="incense-container">
+          <div class="incense-stick left"></div>
+          <div class="incense-stick right"></div>
+          <button id="light-incense" class="ritual-btn">Light Incense</button>
+        </div>
+      </div>
+
+      <div id="paper-customization">
+        <input
+          type="text"
+          id="custom-message"
+          placeholder="Write your message to ancestors..."
+          maxlength="20" />
+        <button id="write-message" class="ritual-btn">Write Message</button>
+      </div>
+
+      <div id="joss-paper-container">
+        <div id="joss-paper" class="gold-paper">
+          <div id="paper-message"></div>
+        </div>
+      </div>
+
+      <div id="controls">
+        <button id="burn-btn">Burn Offering</button>
+        <button id="reset-btn" class="secondary-btn">Reset</button>
+      </div>
+
+      <div id="spirit-message" class="hidden">
+        <p>Your offering has been received by your ancestors</p>
+      </div>
+    </div>
+
+    <canvas id="canvas"></canvas>
+    <audio id="burning-sound" src="assets/burning.mp3" preload="auto"></audio>
+    <audio
+      id="temple-ambience"
+      src="assets/temple-bells.mp3"
+      preload="auto"
+      loop></audio>
+
+    <script src="script.js"></script>
+  </body>
+</html>
