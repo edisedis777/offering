@@ -1,5 +1,7 @@
 # Ancestral Joss Paper Offering
 
+## (Demo)[https://edisedis777.github.io/offering/]
+
 A visually stunning and culturally rich webpage project that allows users to perform a virtual ancestral offering by "burning" a joss paper. Inspired by traditional East Asian ancestral worship practices, this interactive experience features artistic animations, a mystical atmosphere, rich audio, and mobile-friendly design.
 
 ## Overview
