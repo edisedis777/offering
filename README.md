@@ -6,7 +6,8 @@
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## [Demo here](https://edisedis777.github.io/offering/)
+## Demo 
+Try it Live: [Here](https://edisedis777.github.io/offering/)
 
 A visually stunning and culturally rich webpage project that allows users to perform a virtual ancestral offering by "burning" a paper. Interactive experience features animations, audio, and mobile-friendly design.
 
