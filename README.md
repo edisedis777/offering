@@ -6,10 +6,11 @@
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+A visually stunning and culturally rich webpage project that allows users to perform a virtual ancestral offering by "burning" a paper. Interactive experience features animations, audio, and mobile-friendly design.
+
+
 ## Demo 
 Try it Live: [Here](https://edisedis777.github.io/offering/)
-
-A visually stunning and culturally rich webpage project that allows users to perform a virtual ancestral offering by "burning" a paper. Interactive experience features animations, audio, and mobile-friendly design.
 
 ## Overview
 - This project creates a digital ritual where users can click a beautifully designed paper or the "Burn" button to watch it fade away in a poetic, flame-and-smoke animation, symbolizing an offering.
