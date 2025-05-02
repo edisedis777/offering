@@ -4,7 +4,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A visually stunning and culturally rich webpage project that allows users to perform a virtual ancestral offering by "burning" a paper. Interactive experience features animations, audio, and mobile-friendly design.
 
@@ -42,7 +41,7 @@ No external dependencies are required beyond a modern web browser. However, ensu
 * Audio: Temple Music by DSTechnician from Pixabay, Burn Music by u_cppl7ah986 from Pixabay.
 
 ### License
-This project is open-source and available under the MIT License.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 <div align="right">
 
